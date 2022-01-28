@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ChiuW_ASSN01 Bingo
+</name>
+</assembly>
+<members>
+<member name="T:ChiuW_ASSN01_Bingo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.coollogo_com_22391435">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.NeonB">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonbingo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonbrickwall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonbrickwall2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.NeonG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.NeonI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonlatenight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.NeonN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonnewcard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.NeonO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.neonpurplebar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.palmtreeneon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.partygif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.pizzaneon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.pub_fig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChiuW_ASSN01_Bingo.My.Resources.Resources.vip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
